@@ -1,7 +1,10 @@
 # **RappyTV's LabyMod Addons**
+### Hier lade ich meine LabyMod addons hoch.
 
-### Was ich hier hochlade:
-> Alle meine öffentlichen/privaten Labymod Addons für die Addon Store verifizierung
+## Info:
+Alle archivierten Repositorys sind für LabyMod 3.<br>
+Der Rest ist LabyMod 4<br>
+→ das sind ein paar weniger, da ich keine Addons mehr ohne Erlaubnis auf andere Versionen porte
 
 ---
 
