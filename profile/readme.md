@@ -1,6 +1,4 @@
 <h1 align="center"><a href="https://github.com/RappyTV">RappyTV's</a> LabyMod Addons</h1>
-<p align="center">Here I upload all my LabyMod addons.</p>
+<p align="center">Here is where I upload all my LabyMod addons.</p>
 
-### What I upload here
-+ LabyMod 4 Addons
-+ LabyMod 3 Addons (The archived repos)
+All read-only repos are deprecated which means that I don't actively maintain them anymore. Some of the addons you find here are not in the store for various reasons. Some will remain unreleased - some won't 👀
